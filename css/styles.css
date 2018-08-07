@@ -199,8 +199,8 @@ nav h1 a {
 }
 .inside #map {
   background-color: #ccc;
-  height: 100%;
-  width: 100%;
+  top: 131px;
+  border-bottom:  25px solid #3397DB;
 }
 .inside #footer {
   bottom: 0;
